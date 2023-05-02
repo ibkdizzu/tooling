@@ -70,5 +70,5 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
-*This is some Jenkins trigger*
+*This is some correct Jenkins trigger*
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
